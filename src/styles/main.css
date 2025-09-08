@@ -1,0 +1,29 @@
+/* Material Design Icons - Working solution */
+@import url('https://cdn.jsdelivr.net/npm/@mdi/font@7.x/css/materialdesignicons.min.css');
+
+/* MDI Icon base styles */
+.mdi {
+  font-family: "Material Design Icons" !important;
+  font-weight: normal !important;
+  font-style: normal !important;
+  display: inline-block !important;
+  line-height: 1 !important;
+  text-rendering: auto !important;
+  -webkit-font-smoothing: antialiased !important;
+  -moz-osx-font-smoothing: grayscale !important;
+}
+
+/* Ensure proper icon sizing */
+.mdi {
+  font-size: inherit !important;
+}
+
+/* Force proper font loading */
+@font-face {
+  font-family: "Material Design Icons";
+  src: url("https://cdn.jsdelivr.net/npm/@mdi/font@7.x/fonts/materialdesignicons-webfont.woff2") format("woff2"),
+       url("https://cdn.jsdelivr.net/npm/@mdi/font@7.x/fonts/materialdesignicons-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
