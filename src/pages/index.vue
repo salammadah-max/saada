@@ -15,7 +15,7 @@
           <div>
             <h1 class="text-h4 font-weight-bold mb-2">لوحة التحكم</h1>
             <p class="text-subtitle-1 text-medium-emphasis">
-              خطط، أول، وأنجز مهامك بسهولة
+              خطط، أول، وأنجز مهامك بسهولة313123
             </p>
           </div>
           <div class="d-flex ga-3">
