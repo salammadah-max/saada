@@ -27,7 +27,7 @@
               @click="$router.push('/income')"
             >
               <span class="me-2">➕</span>
-              إضافة إيراد
+              إضافة إيراد 25356456456
             </v-btn>
             <v-btn
               color="success"
